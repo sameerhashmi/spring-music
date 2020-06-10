@@ -1,0 +1,4 @@
+project: spring-music
+registry: https://index.docker.io/v1/
+username: sameerhashmi
+password: aa59054b-a169-4398-93c8-b2219a4ef734

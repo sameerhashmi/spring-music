@@ -1,0 +1,6 @@
+source:
+  git:
+    url: https://github.com/sameerhashmi/spring-music
+    revision: master
+image:
+  tag: index.docker.io/sameerhashmi/spring-music
